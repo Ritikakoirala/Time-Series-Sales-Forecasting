@@ -1,5 +1,5 @@
 ﻿📈 Sales Time Series Forecasting using ARIMA & Streamlit
-📌 Project Overview
+Project Overview
 
 This project focuses on forecasting future sales using historical sales data. It uses time series analysis techniques and builds an interactive web application using Streamlit.
 
