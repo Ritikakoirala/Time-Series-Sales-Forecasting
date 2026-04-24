@@ -14,7 +14,6 @@ Predict future sales values
 📊 Dataset Information
 
 The dataset contains retail sales transactions with features such as:
-
 Order Date
 Sales
 Category
