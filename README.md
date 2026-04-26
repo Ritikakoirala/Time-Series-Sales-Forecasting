@@ -4,7 +4,6 @@ Project Overview
 This project focuses on forecasting future sales using historical sales data. It uses time series analysis techniques and builds an interactive web application using Streamlit.
 
 The core forecasting model used is Autoregressive Integrated Moving Average (ARIMA), which is widely used for predicting future values based on past trends.
-
 🎯 Objective
 Analyze historical sales data
 Identify trends and patterns over time
