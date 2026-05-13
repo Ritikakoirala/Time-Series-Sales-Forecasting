@@ -18,7 +18,6 @@ Sales
 Category
 Region
 Product details
-
 For forecasting, only Order Date and Sales are used after preprocessing.
 
 🧹 Data Preprocessing Steps
